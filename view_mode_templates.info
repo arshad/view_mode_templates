@@ -1,0 +1,4 @@
+name = View Mode Templates
+description = Templates for Entity View Modes
+
+core = 7.x
